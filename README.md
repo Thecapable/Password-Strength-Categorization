@@ -1,6 +1,6 @@
 # Password-Strength-Categorization
 
-Often we require to set up passwords while making a new account on different platforms. There are certain conditions while creating a new password which make it difficult to crack for potential threats. It is therefore recommended to follow the conditions in order to make your password fool-proof. The program checks the strenth of the password on the following parameters:
+Often we require to set up passwords while making a new account on different platforms. There are certain things which can be done to make your password secure from potential threats. It is therefore recommended to keep certain things in mind and follow some practices in order to make your password fool-proof. This program checks the strength of your password on the following parameters:
 
 1. **Password is atleast 8 characters long**
 2. **Password is atmost 16 characters long**
@@ -8,9 +8,8 @@ Often we require to set up passwords while making a new account on different pla
 4. **Password contains atleast one uppercase letter**
 5. **Password contains atleast one special character**
 6. **Password contains atleast one digit**
-7. **Password doesn't have 3 uppercase or 3 lowercase letters together (for instance, sequences such as '...UJL..' or '...asg...' are not allowed)**
-8. **Password doesn't have 2 consecutive digits one after the other (for instance, '....45...' is not allowed whereas '....46...' is allowed)**
-
+7. **Password doesn't have 3 uppercase or 3 lowercase letters together (for instance, sequences such as _'...UJL..'_ or _'...asg...'_ are not allowed)**
+8. **Password doesn't have 2 consecutive digits one after the other (for instance, _'....45...'_ is not allowed whereas _'....46...'_ is allowed)**
 
 ----  
   
